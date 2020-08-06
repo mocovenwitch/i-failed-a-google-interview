@@ -1,5 +1,7 @@
-# i-failed-a-google-interview
+# I failed a Google interview
 I failed a Google interview in 2018. So what?
+
+在此记录我如何奋力反抗人生的荒谬……
 
 ## Study again
 
