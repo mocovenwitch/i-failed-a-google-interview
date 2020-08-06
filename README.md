@@ -5,4 +5,5 @@ I failed a Google interview in 2018. So what?
 
 - [Fundamental Data Structures](fundamental-data-structures)
     - [Arrays](fundamental-data-structures/array/arrays.md)
+    - [Arrays Questions](fundamental-data-structures/array/questions)
 
