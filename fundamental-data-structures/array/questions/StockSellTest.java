@@ -10,6 +10,10 @@ public class StockSellTest {
         test(price1, 7);
         test(price2, 4);
         test(price3, 0);
+
+        testKt(price1, 7);
+        testKt(price2, 4);
+        testKt(price3, 0);
     }
 
     private static void test(int[] prices, int expect) {
@@ -17,5 +21,12 @@ public class StockSellTest {
         int result = ss.maxProfit(prices);
 
         System.out.println("test: expected - " + expect + ", result - " + result);
+    }
+
+    private static void testKt(int[] prices, int expect) {
+        StockSellKt ssKt = new StockSellKt();
+        int result = ssKt.maxProfit(prices);
+
+        System.out.println("testkt: expected - " + expect + ", result - " + result);
     }
 }
