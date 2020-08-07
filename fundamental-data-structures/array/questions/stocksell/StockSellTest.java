@@ -1,4 +1,4 @@
-package array.questions;
+package array.questions.stocksell;
 
 public class StockSellTest {
 

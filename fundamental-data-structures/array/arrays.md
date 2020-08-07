@@ -53,10 +53,10 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 Note: You may not engage in multiple transactions at the same time (i.e., you must sell the stock before you buy again).
 
-[Java solution](questions/StockSell.java)
+[Java solution](questions/stocksell/StockSell.java)
 
-[Kotlin solution](questions/StockSell.kt)
+[Kotlin solution](questions/stocksell/StockSell.kt)
 
-[Go solution](questions/stocksell.go)
+[Go solution](questions/stocksell/stocksell.go)
 
 唉，同时写三个不同的语言，有点人格分裂……很有可能，一个月后我会分裂出 `Java 的我`， `Kotlin 的我`，和 `Go 的我`。
