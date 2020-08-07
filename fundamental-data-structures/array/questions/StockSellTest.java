@@ -11,6 +11,9 @@ public class StockSellTest {
         test(price2, 4);
         test(price3, 0);
 
+        // See! Only Java can pass null to the function, while Kotlin/Go we can't do that...
+        test(null, 0);
+
         testKt(price1, 7);
         testKt(price2, 4);
         testKt(price3, 0);
