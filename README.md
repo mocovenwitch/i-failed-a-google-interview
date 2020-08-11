@@ -9,4 +9,5 @@ I failed a Google interview in 2018. So what?
     - [Arrays](fundamental-data-structures/array/arrays.md)
     - [Arrays Questions](fundamental-data-structures/array/questions)
         - [Best Time to Buy and Sell Stock II](fundamental-data-structures/array/questions/stocksell)
+        - [Plus One](fundamental-data-structures/array/questions/plusone)
 
