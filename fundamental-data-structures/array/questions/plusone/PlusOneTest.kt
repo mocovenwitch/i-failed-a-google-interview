@@ -28,5 +28,4 @@ fun main() {
     result5.forEach { print("$it, ") }
     println()
     result6.forEach { print("$it, ") }
-
 }
