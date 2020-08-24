@@ -7,10 +7,10 @@ I failed a Google interview in 2018. So what?
 
 - Fundamental Data Structures
     - [Arrays](fundamental-data-structures/array/arrays.md)
-    - [Arrays Questions](fundamental-data-structures/array/questions)
+    - Arrays Questions
         - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [my solution](fundamental-data-structures/array/questions/stocksell)
         - [Plus One](https://leetcode.com/problems/plus-one/) - [my solution](fundamental-data-structures/array/questions/plusone)
     - [String](fundamental-data-structures/string/string.md)
-    - [String Questions](fundamental-data-structures/string/questions)
+    - String Questions
         - [Reverse String](https://leetcode.com/problems/reverse-string/) - [my solution](fundamental-data-structures/string/questions/reversestring)
         - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [my solution](fundamental-data-structures/string/questions/anagram)
