@@ -5,7 +5,7 @@ I failed a Google interview in 2018. So what?
 
 ## Study again
 
-- [Fundamental Data Structures](fundamental-data-structures)
+- Fundamental Data Structures
     - [Arrays](fundamental-data-structures/array/arrays.md)
     - [Arrays Questions](fundamental-data-structures/array/questions)
         - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [my solution](fundamental-data-structures/array/questions/stocksell)
