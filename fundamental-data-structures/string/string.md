@@ -52,3 +52,11 @@ if size > 1 {
     }
 }
 ```
+
+### Summary
+We know this for sure, but still make mistake in practice.
+
+Even O(n) == O(n) + O(n) + O(n), still try to reduce it.
+
+- Unfixed array slower than fixed array
+- map is more expensive than primitive array
