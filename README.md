@@ -14,3 +14,6 @@ I failed a Google interview in 2018. So what?
     - String Questions
         - [Reverse String](https://leetcode.com/problems/reverse-string/) - [my solution](fundamental-data-structures/string/questions/reversestring)
         - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [my solution](fundamental-data-structures/string/questions/anagram)
+    - [LinkedList](fundamental-data-structures/linkedlist/linkedlist.md)
+    - LinkedList Questions
+        - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - [my solution](fundamental-data-structures/linkedlist/questions/reverselinkedlist)
