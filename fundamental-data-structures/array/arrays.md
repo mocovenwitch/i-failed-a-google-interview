@@ -42,7 +42,9 @@ Decompiled Kotlin Array `arrayOf(1, 2)`:
 [Code example](main.go)
 
 ### Slice
+Slice is a dynamic array, size and be changed after declaration, while type cannot be changed.
 
+Pretty much like ArrayList in Java.
 
 ## Questions:
 [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/) 
