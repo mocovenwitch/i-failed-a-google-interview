@@ -17,3 +17,4 @@ I failed a Google interview in 2018. So what?
     - [LinkedList](fundamental-data-structures/linkedlist/linkedlist.md)
     - LinkedList Questions
         - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - [my solution](fundamental-data-structures/linkedlist/questions/reverselinkedlist)
+        - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) - [my solution](fundamental-data-structures/linkedlist/questions/mergetwosortedlist)

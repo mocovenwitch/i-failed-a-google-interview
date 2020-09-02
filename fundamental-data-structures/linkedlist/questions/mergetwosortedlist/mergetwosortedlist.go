@@ -1,6 +1,8 @@
 package mergetwosortedlist
 
 // worth optimise...
+// Runtime: 4 ms
+// Memory Usage: 2.8 MB
 func mergeTwoLists0(l1 *ListNode, l2 *ListNode) *ListNode {
 
 	// protect from nil
@@ -46,11 +48,100 @@ func mergeTwoLists0(l1 *ListNode, l2 *ListNode) *ListNode {
 	return l1
 }
 
-func mergeTwoLists0(l1 *ListNode, l2 *ListNode) *ListNode {
+// Runtime: 4 ms
+// Memory Usage: 2.6 MB
+func mergeTwoLists1(l1 *ListNode, l2 *ListNode) *ListNode {
+	// protect from nil
+	if l1 == nil {
+		return l2
+	}
+
+	if l2 == nil {
+		return l1
+	}
+
+	var h *ListNode = nil
+	var c *ListNode = nil
+	for l1 != nil && l2 != nil {
+		if c == nil {
+			if l1.Val <= l2.Val {
+				c = l1
+				l1 = l1.Next
+			} else {
+				c = l2
+				l2 = l2.Next
+			}
+			h = c
+		} else {
+			if l1.Val <= l2.Val {
+				c.Next = l1
+				l1 = l1.Next
+			} else {
+				c.Next = l2
+				l2 = l2.Next
+			}
+			c = c.Next
+		}
+	}
+
+	if l1 != nil {
+		c.Next = l1
+	}
+	if l2 != nil {
+		c.Next = l2
+	}
+
+	return h
+
 }
 
 // ListNode is a singly-linked list
 type ListNode struct {
 	Val  int
 	Next *ListNode
+}
+
+// Runtime: 4 ms
+// Memory Usage: 2.6 MB
+// the same time and space complexity
+func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+	// protect from nil
+	if l1 == nil {
+		return l2
+	}
+	if l2 == nil {
+		return l1
+	}
+
+	// go with the rest
+	var h *ListNode
+	var p *ListNode
+	var c *ListNode
+
+	for l1 != nil && l2 != nil {
+		if l1.Val <= l2.Val {
+			c = l1
+			l1 = l1.Next
+		} else {
+			c = l2
+			l2 = l2.Next
+		}
+
+		if h == nil {
+			h = c
+		}
+		if p != nil {
+			p.Next = c
+		}
+		p = c
+	}
+
+	// if something left
+	if l1 == nil {
+		p.Next = l2
+	}
+	if l2 == nil {
+		p.Next = l1
+	}
+	return h
 }
