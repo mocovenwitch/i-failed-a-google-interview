@@ -101,9 +101,15 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// FIRST SUBMIT:
 // Runtime: 4 ms
 // Memory Usage: 2.6 MB
-// the same time and space complexity
+//
+// The same code submitted in the later morning 8:00 of Sydney time, got better results!
+// I got 4ms and 2.6m at around 7:00 in the morning!
+//
+// Runtime: 0 ms, faster than 100.00% of Go online submissions for Merge Two Sorted Lists.
+// Memory Usage: 2.5 MB, less than 83.75% of Go online submissions for Merge Two Sorted Lists.
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	// protect from nil
 	if l1 == nil {
