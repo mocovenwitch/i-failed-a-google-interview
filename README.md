@@ -18,3 +18,6 @@ I failed a Google interview in 2018. So what?
     - LinkedList Questions
         - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - [my solution](fundamental-data-structures/linkedlist/questions/reverselinkedlist)
         - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) - [my solution](fundamental-data-structures/linkedlist/questions/mergetwosortedlist)
+    - [Trees](fundamental-data-structures/trees/tree.md)
+    - Tree Questions
+        - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [my solution](fundamental-data-structures/trees/questions/maximumdepth)    
