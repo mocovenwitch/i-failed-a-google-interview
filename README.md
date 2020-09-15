@@ -7,7 +7,7 @@ I failed a Google interview in 2018. So what?
 
 - Fundamental Data Structures
     - [Arrays](fundamental-data-structures/array/arrays.md)
-    - Arrays Questions
+    - Array Questions
         - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - [my solution](fundamental-data-structures/array/questions/stocksell)
         - [Plus One](https://leetcode.com/problems/plus-one/) - [my solution](fundamental-data-structures/array/questions/plusone)
     - [String](fundamental-data-structures/string/string.md)
@@ -20,4 +20,5 @@ I failed a Google interview in 2018. So what?
         - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) - [my solution](fundamental-data-structures/linkedlist/questions/mergetwosortedlist)
     - [Trees](fundamental-data-structures/trees/tree.md)
     - Tree Questions
-        - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [my solution](fundamental-data-structures/trees/questions/maximumdepth)    
+        - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [my solution](fundamental-data-structures/trees/questions/maximumdepth)
+        - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) - [my solution](fundamental-data-structures/trees/questions/validbinarysearchtree)
