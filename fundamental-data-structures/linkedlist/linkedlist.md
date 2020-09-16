@@ -31,7 +31,7 @@ private static class Node<E> {
 
 ## Go
 
-Ha, Golang does not have `while` keyword, but user for instead:
+Ha, Golang does not have `while` keyword, but use for instead:
 
 ```
 for head.Next != nil {
