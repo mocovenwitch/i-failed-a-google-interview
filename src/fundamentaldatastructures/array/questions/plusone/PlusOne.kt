@@ -1,4 +1,4 @@
-package array.questions.plusone
+package fundamentaldatastructures.array.questions.plusone
 
 import kotlin.math.pow
 

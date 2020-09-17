@@ -1,4 +1,4 @@
-package string;
+package fundamentaldatastructures.string;
 
 public class JavaString {
     public static void main(String[] args) {

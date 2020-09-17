@@ -1,4 +1,4 @@
-package string.questions.reversestring
+package fundamentaldatastructures.string.questions.reversestring
 
 fun main() {
     val case1 = charArrayOf('h','e','l','l','o')

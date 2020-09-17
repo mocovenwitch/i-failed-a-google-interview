@@ -1,4 +1,4 @@
-package linkedlist
+package fundamentaldatastructures.linkedlist
 
 import java.util.*
 

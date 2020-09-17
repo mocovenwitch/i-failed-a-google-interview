@@ -1,4 +1,4 @@
-package array.questions.plusone
+package fundamentaldatastructures.array.questions.plusone
 
 fun main() {
     val case1= intArrayOf(1, 2, 3)

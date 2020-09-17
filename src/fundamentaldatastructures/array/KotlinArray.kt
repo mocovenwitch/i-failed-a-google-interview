@@ -1,4 +1,4 @@
-package array
+package fundamentaldatastructures.array
 
 fun main() {
     normalArray()

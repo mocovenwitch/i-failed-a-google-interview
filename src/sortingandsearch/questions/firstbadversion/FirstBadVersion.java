@@ -1,4 +1,4 @@
-package searchandsort.firstbadversion;
+package sortingandsearch.questions.firstbadversion;
 
 public class FirstBadVersion {
 
@@ -31,6 +31,7 @@ public class FirstBadVersion {
         if (n == 0) return 0;
         int min = 1, max = n;
 
+        // = is important
         while (min <= max) {
             int mid = min + (max - min) / 2;
 
@@ -45,6 +46,6 @@ public class FirstBadVersion {
     }
 
     boolean isBadVersion(int version) {
-        return version >= 87;
+        return version >= 5;
     }
 }

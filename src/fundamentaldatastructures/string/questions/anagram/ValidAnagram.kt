@@ -1,4 +1,4 @@
-package string.questions.anagram
+package fundamentaldatastructures.string.questions.anagram
 
 class ValidAnagram {
     // O(n)

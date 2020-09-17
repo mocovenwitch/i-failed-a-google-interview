@@ -1,4 +1,6 @@
-package string.questions.anagram
+package fundamentaldatastructures.string.questions.anagram
+
+import fundamentaldatastructures.string.questions.anagram.ValidAnagram
 
 fun main() {
 

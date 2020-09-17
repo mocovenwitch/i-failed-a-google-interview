@@ -1,4 +1,4 @@
-package string.questions.reversestring
+package fundamentaldatastructures.string.questions.reversestring
 
 object ReverseString {
 

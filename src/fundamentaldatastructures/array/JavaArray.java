@@ -1,4 +1,4 @@
-package array;
+package fundamentaldatastructures.array;
 
 import java.util.Arrays;
 
