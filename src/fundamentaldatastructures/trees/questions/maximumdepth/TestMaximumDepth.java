@@ -1,6 +1,6 @@
-package trees.questions.maximumdepth;
+package fundamentaldatastructures.trees.questions.maximumdepth;
 
-import trees.questions.maximumdepth.MaximumDepthOfBinaryTree.TreeNode;
+import fundamentaldatastructures.trees.questions.maximumdepth.MaximumDepthOfBinaryTree.TreeNode;
 
 public class TestMaximumDepth {
     public static void main(String[] ars) {

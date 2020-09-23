@@ -1,4 +1,4 @@
-package trees.questions.maximumdepth;
+package fundamentaldatastructures.trees.questions.maximumdepth;
 
 
 /**
