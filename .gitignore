@@ -23,3 +23,5 @@ main
 # vendor/
 
 .DS_Store
+
+.vscode/
