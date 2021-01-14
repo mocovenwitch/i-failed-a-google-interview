@@ -34,3 +34,7 @@ I failed a Google interview in 2018. So what?
 - Design
     - Questions
         - [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) - [My solution](src/design/questions/ShuffleArray.go)     
+
+- Maths
+    - Questions
+        - [Power of Three](https://leetcode.com/problems/power-of-three) - [My solution](src/maths/questions/logthree.go)    
