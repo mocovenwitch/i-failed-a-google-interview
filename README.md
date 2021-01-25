@@ -38,4 +38,4 @@ I failed a Google interview in 2018. So what?
 - Maths
     - Questions
         - [Power of Three](https://leetcode.com/problems/power-of-three) - [My solution](src/maths/questions/logthree.go)    
-        - [Count Primes](https://leetcode.com/problems/count-primes) - [My solution](src/maths/questions/countprimes.go)
+        - [Count Primes - Sieve_of_Eratosthenes](https://leetcode.com/problems/count-primes) - [My solution](src/maths/questions/countprimes.go)
