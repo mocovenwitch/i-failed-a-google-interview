@@ -37,6 +37,7 @@ func isPrimes(n int, primes []int) bool {
 
 // Runtime: 8 ms, faster than 86.88% of Go online submissions for Count Primes.
 // Memory Usage: 4.9 MB, less than 33.33% of Go online submissions for Count Primes.
+// https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes O(n log log n)
 func countPrimes2(n int) int {
 	primes := make([]bool, n)
 	// set default value
